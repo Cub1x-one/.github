@@ -1,7 +1,7 @@
 <h1 align="center">Cubix One</h1>
 
 <p align="center">
-  <strong>Modular business software and fire safety compliance, built in Portugal.</strong>
+  <strong>Custom software and a modular ERP platform, built in Portugal.</strong>
 </p>
 
 <p align="center">
@@ -13,18 +13,28 @@
 
 ## Who we are
 
-Cubix One builds modular software for companies that want to grow step by step. We start with the essentials, such as CRM, and add the pieces you need over time until it becomes a lightweight ERP, without paying for what you don't use.
+Cubix One works on two fronts:
 
-We are part of a group working on software for the fire protection industry, together with partners who work in the field every day.
+- **Custom software:** we design and build specialized software for a single company, with exactly what it needs and nothing more.
+- **Our own ERP platform:** a ready-to-use, configurable ERP that any company can sign up for and use through a monthly subscription.
+
+We are also part of a group working on software for the fire protection industry, together with partners who work in the field every day.
 
 ## What we build
 
-### 🧩 Cubix One platform
-A modular platform where each module works on its own and together with the others.
+### 🛠️ Custom software
+Specialized software built around one company's way of working.
 
-- CRM that grows into a lightweight ERP
-- Independent modules you can adopt one at a time
-- Custom development and integrations tailored to each client
+- Tailored systems with only the features the company needs
+- Integrations with the tools and systems it already uses
+- Websites and business applications, delivered end to end
+
+### 🧩 Cubix One ERP platform
+Our own modular ERP, ready to use: sign in, configure it for your company and subscribe monthly. *Currently in development.*
+
+- Modular architecture, starting with CRM and growing into a full ERP
+- Configurable to each company, with no custom development required
+- Simple monthly subscription, with access to everything the platform offers
 
 ### 🔥 Fire Safety & Compliance
 Software for fire protection companies, built with European standards such as EN 12845 in mind. *Currently in development.*
